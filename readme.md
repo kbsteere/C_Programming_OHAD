@@ -19,3 +19,5 @@ examples which I think are a little too advanced for very beginner programmers b
 issue where they attempt to show an example of a program but they include functions that haven't been introduced and don't instruct the new programmer on the fact that they should
 go look up the function in an attempt to understand what it does. The books tend to make an assumption that users will just look at the program and accept that they don't understand 
 some of the information, but I like to assume people who are learning programming are facinated by how things operate and want to understand them as soon as they are introduced. 
+
+#### Chapter 3: Storing Information: Variables and Constants
