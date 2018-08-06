@@ -21,3 +21,15 @@ go look up the function in an attempt to understand what it does. The books tend
 some of the information, but I like to assume people who are learning programming are facinated by how things operate and want to understand them as soon as they are introduced. 
 
 #### Chapter 3: Storing Information: Variables and Constants
+Goes through the size of all variables types (int, float, char, etc..) and 
+over constants (literal & symbolic). The information is good and having the example of 
+sizeof being used in one of the examples gives the programmer an insight into the 
+fact that you can check the size of a type. The only problem with the example is 
+that is doesn't compile if you create it. The program requires %zu instead of %d which
+maybe depending on the IDE the author was using was able to handle this error but if
+you use gcc (on linux) then the comiple throws "expects argument of type 'int', but 
+argument has type long unsigned int" or something very similar. 
+The const.c program was actually the first program that I think fits in the section
+of the book it is in. It covers everything that the programmer has gone through in the
+book thus far.   
+ 
