@@ -31,5 +31,8 @@ you use gcc (on linux) then the comiple throws "expects argument of type 'int', 
 argument has type long unsigned int" or something very similar. 
 The const.c program was actually the first program that I think fits in the section
 of the book it is in. It covers everything that the programmer has gone through in the
-book thus far.   
+book thus far.
+
+#### Chapter 4: The Pieces of a C Program: Statements, Expressions, and Operators
+
  
