@@ -34,5 +34,5 @@ of the book it is in. It covers everything that the programmer has gone through 
 book thus far.
 
 #### Chapter 4: The Pieces of a C Program: Statements, Expressions, and Operators
-
+This chapter is very important and covers alot. It goes over the rules for statements, expressions and operators and provides a precedence list at the end of all operators and their precedence level. (A good refresher for even for those who use it every day). My only issue with this chapter are the analysis sections after an example. Now I know this is setup for "beginners" but it seems very long winded when reading the summary and any seasoned programmer should skip these analysis sections completely. 
  
