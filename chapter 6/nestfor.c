@@ -25,3 +25,4 @@ void print_ttable(int outer, int inner)
     }
     return;
 }
+
